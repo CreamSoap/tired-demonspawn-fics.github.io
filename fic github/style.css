@@ -1,0 +1,15 @@
+html {
+    background-color: #222; 
+    color: #d9d9d9;
+    margin-left: 10px;
+}
+
+div.fic{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 10%
+}
+
+a {
+    color:rgb(30, 177, 177);
+}
