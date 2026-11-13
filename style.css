@@ -9,6 +9,12 @@ div.fic{
     margin-bottom: 10%;
     display: flex;
     justify-content: center;
+    flex-direction: column;
+}
+
+div.fic p{
+    margin: 5px
+
 }
 
 a {
