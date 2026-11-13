@@ -7,9 +7,9 @@ html {
 div.fic{
     max-width: 1000px;
     margin-bottom: 10%;
-    display: flex;
-    justify-content: center;
+    display: flex;    
     flex-direction: column;
+    justify-content: center;
 }
 
 div.fic p{
